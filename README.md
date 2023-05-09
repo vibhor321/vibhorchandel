@@ -6,7 +6,7 @@ WordPress developer specializing in creating custom themes and plugins to enhanc
 
 Skills: WordPress / PHP / HTML / CSS / JS / React
 
-- 🔭 I’m currently working on this page. 
+- :desktop_computer: I’m currently working as a WordPress Developer for [RubicoTech](https://rubicotech.in/). 
 
 
 
