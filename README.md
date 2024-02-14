@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Vibhor
 #### Python Developer
-![Python Developer]
 
 Passionate Python developer skilled in web development with Django and Flask. Strong problem-solving abilities and enthusiasm for learning new technologies.
 
