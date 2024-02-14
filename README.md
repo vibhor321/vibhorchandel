@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Vibhor
-#### WordPress Developer
-![WordPress Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Python Developer
+![Python Developer]
 
-WordPress developer specializing in creating custom themes and plugins to enhance website functionality. Passionate about open-source technology and collaborating with other developers to build innovative solutions.
+Passionate Python developer skilled in web development with Django and Flask. Strong problem-solving abilities and enthusiasm for learning new technologies.
 
-Skills: WordPress / PHP / HTML / CSS / JS / React
+Skills: WordPress / PHP / HTML / CSS / JS / Python
 
-- :desktop_computer: I’m currently working as a WordPress Developer for [RubicoTech](https://rubicotech.in/). 
+- :desktop_computer: I’m currently working as a Python Developer for [RubicoTech](https://rubicotech.in/). 
 
 
 
